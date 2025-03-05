@@ -1,2 +1,2 @@
-# ociScanner
- A Python tool for listing and managing various Oracle Cloud Infrastructure (OCI) resources using the OCI API.
+# ociRecon
+ A Python tool for discovering and managing various Oracle Cloud Infrastructure (OCI) resources using the OCI API.
